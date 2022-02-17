@@ -1,0 +1,29 @@
+//PROBLEM-1
+
+Write pseudocode and flowchart for a program that outputs ‘True’ if a given number is divisible by 3 and ‘False’ otherwise, without using the ‘%’ operator explicitly (like N % 3 == 0).
+
+//PSEUDO CODE
+
+main
+
+    Declare integer variable num
+    Get the input of variable num from the user
+
+
+    while num is greater than zero
+        Subtract 3 from num and assign it to num
+    END while
+ 
+    if num is equal to zero then
+	print response
+            "True"
+    
+    else
+        print response
+            "False"
+    END if
+
+END main
+    
+    
+     
