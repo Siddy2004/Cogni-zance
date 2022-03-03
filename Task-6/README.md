@@ -98,5 +98,12 @@
 * ***Inclusion of birthday celebrations.***
 * ***Inclusion of more members for each table.***
 <HR>
+  
 # PREVIEW SCREENSHOTS
+  
+![readmecolor1](https://user-images.githubusercontent.com/99630938/156616985-2f0d7b6d-d2db-4a6b-908a-b8ad4db905ee.png)
+  
+![readmecolor2](https://user-images.githubusercontent.com/99630938/156616998-4497b279-f98d-4917-a003-429ad8863743.png)
+
+![readmecolor3](https://user-images.githubusercontent.com/99630938/156617013-26383dc6-18a3-455d-bad5-3aec37133008.png)
 
